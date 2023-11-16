@@ -52,10 +52,10 @@
       },
       "configurations": {
         "production": {
-          "buildTarget": "donny-twa:build:production"
+          "browserTarget": "donny-twa:build:production"
         },
         "development": {
-          "buildTarget": "donny-twa:build:development"
+          "browserTarget": "donny-twa:build:development"
         }
       },
       "defaultConfiguration": "development"
