@@ -11,6 +11,7 @@
       "outputs": ["{options.outputPath}"],
       "options": {
         "outputPath": "dist/donny-twa",
+        "baseHref": "donny-twa",
         "index": "./src/index.html",
         "browser": "./src/main.ts",
         "polyfills": ["zone.js"],
