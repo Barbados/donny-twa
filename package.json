@@ -21,13 +21,13 @@
     "@angular/router": "~17.0.0",
     "@nx/angular": "17.1.2",
     "@twa-dev/sdk": "^6.9.1",
-    "ng-zorro-antd": "^16.2.2",
+    "ng-zorro-antd": "^17.0.0",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.14.0"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "^16.2.10",
+    "@angular-devkit/build-angular": "~17.0.1",
     "@angular-devkit/core": "~17.0.0",
     "@angular-devkit/schematics": "~17.0.0",
     "@angular-eslint/eslint-plugin": "~17.0.0",
